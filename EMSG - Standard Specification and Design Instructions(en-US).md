@@ -104,7 +104,6 @@ EMSG can be used as a new generation of interconnected open and secure instant m
 
 ##  Support
 
-[http://emsg.im](http://emsg.im/)
 [https://github.com/emsg-im/emsg](https://github.com/emsg-im/emsg)
 
 
