@@ -101,7 +101,6 @@ EMSG可以作为新一代的互通互联、开放、安全的即时消息通讯�
 
 ##  支持
 
-[http://emsg.im](http://emsg.im/)
 [https://github.com/emsg-im/emsg](https://github.com/emsg-im/emsg)
 
 
